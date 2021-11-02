@@ -1,5 +1,5 @@
 # Mehregan
- **Mehregan** is a Tiddlywiki based app for personal knowledege management with Zettelkasten concept.
+ **Mehregan** is a Tiddlywiki based app for **personal knowledge management** with Zettelkasten concept.
  
  # Features
  * Easy note taking and  create cluster of connected information
@@ -13,10 +13,15 @@
 
 **Mehregan** is a standalone (Tiddlywiki)[https://tiddlywiki.com] app and acts as a single html file and can be used offline on a USB thumb drive with any modern browser.
 
-**Mehregan** implements a knowledege management system using Zettelkasten concept and is highly hackable to be shpaed based on your taste and needs.
+**Mehregan** implements a knowledge management system using Zettelkasten concept and is highly hackable to be shpaed based on your taste and needs.
 
 
 ## Demo and code
-* Demo:
-* Code:
+* Demo: https://kookma.github.io/TWE-Mehregan/
+* Code: https://github.com/kookma/TWE-Mehregan
+
+Star it if you like it!
+
+## Copyright
+Mehregan app content copyright © 2021 Mohammad Rahmani. The TiddlyWiki core and the plugins found in this app belong to their respective owners and are used under license.
  
