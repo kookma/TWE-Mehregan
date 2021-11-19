@@ -8,7 +8,9 @@
    * backlinks: bidirectional link to all information block cite or use the current block
    * tags and tagging: bidirectional link to all information block tagged with current block of information
 * Todo and task lists
-* Comments blocks (make comment to other block of information)   
+* Comment blocks (make comment to other block of information)   
+* Interstitial journaling
+* Category tabs for creating idea, source, people, question, ...
 
 
 **Mehregan** is a standalone (Tiddlywiki)[https://tiddlywiki.com] app and acts as a single html file and can be used offline on a USB thumb drive with any modern browser.
